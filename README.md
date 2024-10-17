@@ -3,7 +3,7 @@
 ## JavaScript Algorithms And DataStructures (Beta) Certification
 
 1. Learn Introductory JavaScript by Building a Pyramid Generator ✅
-2. Review JavaScript Fundamentals by Building a Gradebook App
+2. Review JavaScript Fundamentals by Building a Gradebook App ✅
 3. Learn Basic JavaScript by Building a Role Playing Game
 4. Learn Basic Debugging by Building a Random BAckground Color Changer
 5. Learn Form Validation by Building a Calorie Counter
