@@ -5,7 +5,7 @@
 1. Learn Introductory JavaScript by Building a Pyramid Generator ✅
 2. Review JavaScript Fundamentals by Building a Gradebook App ✅
 3. Learn Basic JavaScript by Building a Role Playing Game ✅
-4. Learn Basic Debugging by Building a Random BAckground Color Changer
+4. Learn Basic Debugging by Building a Random Background Color Changer
 5. Learn Form Validation by Building a Calorie Counter
 6. Review DOM Manipulation by Building a Rock, Paper, Scissors Game
 7. Learn Basic String and Array Methods by Building a Music Player
