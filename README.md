@@ -9,7 +9,7 @@
 5. Learn Form Validation by Building a Calorie Counter ✅
 6. Review DOM Manipulation by Building a Rock, Paper, Scissors Game ✅
 7. Learn Basic String and Array Methods by Building a Music Player ✅
-8. Build a Palindrome Checker Project (Certification Project)
+8. Build a Palindrome Checker Project (Certification Project) ✅
 
 ---
 
