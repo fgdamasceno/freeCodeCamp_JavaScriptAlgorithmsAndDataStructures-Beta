@@ -3,7 +3,7 @@ const checkBtn = document.getElementById("check-btn");
 const textResult = document.getElementById("result");
 
 function cleanInputString() {
-  const regex = /[a-z0-9\s]+/;
+  const regex = /[a-z0-9]/gi;
   return textInput.value
     .replace(/\s+/, "")
     .toLowerCase()
