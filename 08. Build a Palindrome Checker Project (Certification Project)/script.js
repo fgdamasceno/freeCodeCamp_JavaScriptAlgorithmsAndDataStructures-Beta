@@ -20,6 +20,7 @@ function palindromeChecker() {
 function update() {
   if (textInput.value === "") {
     alert("Please input a value");
+    textResult.classList.add("hidden");
   } else {
     const result = palindromeChecker()
       ? " is a palindrome."
