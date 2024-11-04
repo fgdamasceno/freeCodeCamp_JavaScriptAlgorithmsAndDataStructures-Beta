@@ -14,7 +14,7 @@
 ---
 
 9. Learn the Date Object by Building a Date Formatter ✅
-10. Learn Modern JavaScript Methods by Building Football Team Cards
+10. Learn Modern JavaScript Methods by Building Football Team Cards ✅
 11. Learn localStorage by Building a Todo App
 12. Learn Recursion by Building a Decimal to Binary Converter
 13. Build a Roman Numeral Converter Project (Certification Project)
