@@ -21,7 +21,7 @@
 
 ---
 
-14. Learn Regular Expressions by Building a Spam Filter
+14. Learn Regular Expressions by Building a Spam Filter ✅
 15. Learn Basic Algorithms Thinking by Building a Number Sorter
 16. Learn Advanced Array Methods by Building a Statistics Calculator
 17. Learn Functional Programming by Building a Spreadsheet
