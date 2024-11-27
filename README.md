@@ -29,7 +29,7 @@
 
 ---
 
-19. Learn Basic OOP by Building a Shopping Cart
+19. Learn Basic OOP by Building a Shopping Cart ✅
 20. Learn Intermediate OOP by Building a Platformer Game
 21. Review Algorithms Thinking by Building a Dice Game
 22. Build a Cash Register Project (Certification Project)
