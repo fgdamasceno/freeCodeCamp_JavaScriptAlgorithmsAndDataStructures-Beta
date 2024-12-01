@@ -25,19 +25,23 @@
 15. Learn Basic Algorithms Thinking by Building a Number Sorter ✅
 16. Learn Advanced Array Methods by Building a Statistics Calculator ✅
 17. Learn Functional Programming by Building a Spreadsheet ✅
-18. Build a Telephone Number Validator Project (Certification Project)
+18. Build a Telephone Number Validator Project (Certification Project) ✅
 
 ---
 
 19. Learn Basic OOP by Building a Shopping Cart ✅
 20. Learn Intermediate OOP by Building a Platformer Game ✅
 21. Review Algorithms Thinking by Building a Dice Game ✅
-22. Build a Cash Register Project (Certification Project)
+22. Build a Cash Register Project (Certification Project) ✅
 
 ---
 
 23. Learn Fetch and Promises by Building an fCC Authors Page ✅
 24. Learn Asynchronous Programming by Building an fCC Forum Leaderboard ✅
-25. Build a Pokémon Search App Project (Certification Project)
+25. Build a Pokémon Search App Project (Certification Project) ✅
 
 ---
+
+### Certification
+
+[![freeCodeCamp](<26. Certification/freeCodeCampJavaScriptAlgorithms.png>)](https://www.freecodecamp.org/certification/fgdamasceno/javascript-algorithms-and-data-structures-v8)
