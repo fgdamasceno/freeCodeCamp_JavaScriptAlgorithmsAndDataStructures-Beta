@@ -37,7 +37,7 @@
 ---
 
 23. Learn Fetch and Promises by Building an fCC Authors Page ✅
-24. Learn Asynchronous Programming by Building an fCC Forum Leaderboard
+24. Learn Asynchronous Programming by Building an fCC Forum Leaderboard ✅
 25. Build a Pokémon Search App Project (Certification Project)
 
 ---
